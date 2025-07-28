@@ -3,3 +3,4 @@
 "# sum_of_n_numbers" 
 "# sum_in_range" 
 "# greatest2_py" 
+"# greatest_of_three" 

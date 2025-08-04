@@ -5,3 +5,4 @@
 "# greatest2_py" 
 "# greatest_of_three" 
 "# leap_year" 
+"# prime_num" 

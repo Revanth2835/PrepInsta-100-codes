@@ -6,3 +6,4 @@
 "# greatest_of_three" 
 "# leap_year" 
 "# prime_num" 
+"# sum_digits" 

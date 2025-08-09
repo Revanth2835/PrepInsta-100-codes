@@ -7,3 +7,4 @@
 "# leap_year" 
 "# prime_num" 
 "# sum_digits" 
+"# reverseN" 

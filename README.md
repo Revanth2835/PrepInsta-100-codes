@@ -8,3 +8,4 @@
 "# prime_num" 
 "# sum_digits" 
 "# reverseN" 
+"# palindrome" 

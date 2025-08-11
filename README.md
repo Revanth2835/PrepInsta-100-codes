@@ -9,3 +9,4 @@
 "# sum_digits" 
 "# reverseN" 
 "# palindrome" 
+"# armstrong" 

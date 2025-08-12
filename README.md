@@ -10,3 +10,4 @@
 "# reverseN" 
 "# palindrome" 
 "# armstrong" 
+"# armstrong_range" 

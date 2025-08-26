@@ -12,3 +12,4 @@
 "# armstrong" 
 "# armstrong_range" 
 "# fibonacci" 
+"# NthFibonacci" 

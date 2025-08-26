@@ -13,3 +13,4 @@
 "# armstrong_range" 
 "# fibonacci" 
 "# NthFibonacci" 
+"# factorail" 

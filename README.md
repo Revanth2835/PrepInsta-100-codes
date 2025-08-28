@@ -14,3 +14,4 @@
 "# fibonacci" 
 "# NthFibonacci" 
 "# factorail" 
+"# powerOfNum" 

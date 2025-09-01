@@ -17,3 +17,4 @@
 "# powerOfNum" 
 "# factors_of_a_number" 
 "# primeFactors" 
+"# strongNumber" 

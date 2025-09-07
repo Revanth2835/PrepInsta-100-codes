@@ -19,3 +19,4 @@
 "# primeFactors" 
 "# strongNumber" 
 "# perfectSquare" 
+"# automorphic" 

@@ -20,3 +20,4 @@
 "# strongNumber" 
 "# perfectSquare" 
 "# automorphic" 
+"# harshadNumber" 

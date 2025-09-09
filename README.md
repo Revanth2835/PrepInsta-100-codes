@@ -21,3 +21,4 @@
 "# perfectSquare" 
 "# automorphic" 
 "# harshadNumber" 
+"# abundantNumber" 

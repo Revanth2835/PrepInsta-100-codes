@@ -22,3 +22,4 @@
 "# automorphic" 
 "# harshadNumber" 
 "# abundantNumber" 
+"# friendlyPair" 

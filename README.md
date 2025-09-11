@@ -23,3 +23,4 @@
 "# harshadNumber" 
 "# abundantNumber" 
 "# friendlyPair" 
+"# hcf_python" 

@@ -24,3 +24,4 @@
 "# abundantNumber" 
 "# friendlyPair" 
 "# hcf_python" 
+"# lcmOfTwoNumbers" 
